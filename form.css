@@ -1,0 +1,14 @@
+
+td.size{
+    width: 10px;
+    height: 10px;
+}
+#head{
+    text-align: center;
+    padding-left: 150px;
+}
+#para{
+    text-align: right;
+    padding-right: 0px;
+    padding-left: 150px;
+}
